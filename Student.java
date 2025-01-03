@@ -1,15 +1,17 @@
 public class Student {
     
-        String name = Abena Rapha;
-        int Total score = 80;
+        private String name = Abena Rapha;
+        private int Total score = 80;
     
     
-        Public getName(){
+        public getName(){
             return  }
     
-        Public getScore(){
+        public getScore(){
                 return totalScore}
 
-    }
+        public setName void()
+
+    
     
 }
